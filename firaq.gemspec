@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Firaq::VERSION
   s.authors     = ["Khairul"]
   s.email       = ["kyu.helf@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Firaq."
-  s.description = "TODO: Description of Firaq."
+  s.homepage    = "https://github.com/kahirul/firaq"
+  s.summary     = "Firaq."
+  s.description = "Firaq."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
